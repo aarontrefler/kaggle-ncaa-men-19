@@ -1,4 +1,7 @@
 **/notebooks/.ipynb_checkpoints/**
 **/references/**
+
 **/*.csv
 **/*.model
+**/*.pyc
+**/*.txt
