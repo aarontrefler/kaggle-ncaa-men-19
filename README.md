@@ -1,6 +1,6 @@
 2019 NCAA Men's Tournament Kaggle Competition
 ==============================
-Aaron Trefler
+Aaron Trefler  
 Project Duration: Part-time work from Feb 25th to March 21st 2019
 
 Introduction
@@ -21,10 +21,10 @@ Data Files
 ------------
 Data files used in this project were provided by Kaggle. Specifically the following raw files are used:
 - `Teams.csv`: team names matched to team IDs
-- `NCAAtourneySeeds.csv`: tournament seedings
+- `NCAATourneySeeds.csv`: tournament seedings
 - `RegularSeasonDetailedResults.csv`: regular season results from 2003-2019
 - `NCAATourneyCompactResults`: tournament results from 1985-2019
-- `SuampleSubmissionStage2.csv`: formatted Kaggle submission file for 2019 tournament
+- `SampleSubmissionStage2.csv`: formatted Kaggle submission file for 2019 tournament
 
 Features Used
 ------------
@@ -83,5 +83,5 @@ Project Organization
     │       ├── predict_model.py       <- Make predictions on 2019 games
     │       └── model_utils.py         
     │
-    └── notebooks                       <- Jupyter notebooks
+    └── notebooks                      <- Jupyter notebooks
 
