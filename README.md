@@ -13,7 +13,9 @@ The competition is scored by assessing the negative log loss score of your predi
 
 Executing Project
 ------------
-In order to run the entire project (i.e., create all datasets and models) execute `src/run.sh`.
+In order to run the entire project (i.e., create all datasets and models):
+1. alter the `project_path` varaible in `utils.py` to that of this project's directory on your machine
+2. `cd` into the `src` directory and execute `sh run.sh`.
 
 Project assumes you have this projects `src` directory on your `$PYTHONPATH`, are running Python 3, and have all necessary packages.
 
