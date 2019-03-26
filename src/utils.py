@@ -3,7 +3,7 @@ import datetime
 
 import pandas as pd
 
-project_path = "/Users/aarontrefler_temp2/Documents/My Documents/Kaggle/ncaa-men-19/"
+project_path = "/Users/aarontrefler_temp2/Documents/My Documents/Kaggle/kaggle-ncaa-men-19/"
 
 def cols_to_front(df, front_cols):
     """Moves selected coumns to front of DataFrame"""

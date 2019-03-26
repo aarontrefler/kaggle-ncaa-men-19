@@ -1,6 +1,8 @@
 #!/usr/bin/bash
 
-SRC_PATH="/Users/aarontrefler_temp2/Documents/My Documents/Kaggle/ncaa-men-19/src/"
+SRC_PATH="/Users/aarontrefler_temp2/Documents/My Documents/Kaggle/kaggle-ncaa-men-19/src/"
+
+export PYTHONPATH="${PYTHONPATH}:${SRC_PATH}"
 
 echo "Running make_dataset..."
 python "${SRC_PATH}data/make_dataset.py"
