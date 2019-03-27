@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-SRC_PATH="/Users/aarontrefler_temp2/Documents/My Documents/Kaggle/kaggle-ncaa-men-19/src/"
+SRC_PATH="/Users/aarontrefler_temp2/Documents/My_Documents/Kaggle/kaggle-ncaa-men-19/src/"
 
 export PYTHONPATH="${PYTHONPATH}:${SRC_PATH}"
 
