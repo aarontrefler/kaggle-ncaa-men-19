@@ -7,7 +7,7 @@ Introduction
 ------------
 This project was created in order to compete in Kaggle's 2019 ML NCAA Mens Competition.
 
-The competition required submission of winning probabilities for every potential match-up of the 2019 tournament (i.e., 68teams^2 * 68teams^2 / 2 = 2,312 match-ups).
+The competition required submission of winning probabilities for every potential match-up of the 2019 tournament (i.e., 68teams^2 / 2 = 2,312 match-ups).
 
 The competition is scored by assessing the negative log loss score of your predictions. Lower scores are better.
 
