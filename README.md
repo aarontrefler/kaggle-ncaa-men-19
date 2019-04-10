@@ -58,9 +58,9 @@ Notebooks in this project are as follows:
 
 Results
 ------------
-- Trainig error: `0.476`
+- Training error: `0.476`
 - Validation error: `0.579`
-- Test error (2019 tournamnet): `0.575`
+- Test error (2019 tournament): `0.575`
 
 - Placed 653rd out of 866 Kaggle competition submissions (top 76%)
 
