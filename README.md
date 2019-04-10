@@ -56,6 +56,14 @@ Notebooks in this project are as follows:
 - `AT-1.1-analyze-dataset`: Analyze and view created datasets
 - `AT-1.1-analyze-model`: Analyze trained model and cross valid results
 
+Results
+------------
+- Trainig error: `0.476`
+- Validation error: `0.579`
+- Test error (2019 tournamnet): `0.575`
+
+- Placed 653rd out of 866 Kaggle competition submissions (top 76%)
+
 Project Organization
 ------------
     ├── README.md
